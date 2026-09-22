@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+
+*.pkl
+*.joblib
+
+.vscode/
+.idea/
+
+laptop.csv
